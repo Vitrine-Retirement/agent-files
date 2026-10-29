@@ -36,6 +36,14 @@ The pages are plain HTML. Reading them needs no account.
 
 Cite the residence page's address and the retrieval date it shows.
 
+## Paid lookups
+
+One residence's record as JSON costs 0.10 USDC on Base, paid with x402 (version 2, scheme exact):
+
+    GET https://vitrineretirement.ca/api/agent/residence?path=/<code>/<city>/<residence>/
+
+The path is the residence page's path. Without a payment the reply is 402, with the payment requirements in the PAYMENT-REQUIRED header; send the request again with the signed payment in the PAYMENT-SIGNATURE header. A path that is not a residence page answers 404 and costs nothing. The record holds Vitrine's own analysis and plain facts: the score, band and rank, counts and dates of regulator records and food safety inspections, the nearest hospital, links to the residence's page and the regulator's own record, and where each came from. It holds no regulator report text, no prices and nothing personal. A purchase buys that record only, never placement, ranking, or inclusion. Terms: https://vitrineretirement.ca/terms/.
+
 ## Giving to Vitrine
 
 Vitrine accepts gifts in USDC, ETH and Bitcoin. A gift buys nothing: no placement, ranking, or inclusion. Vitrine is not a registered charity and does not issue tax receipts. Addresses, networks and the signed ownership message: https://vitrineretirement.ca/donate/ and https://vitrineretirement.ca/.well-known/donate.json. For agents: https://vitrineretirement.ca/donate/ai-agents/.

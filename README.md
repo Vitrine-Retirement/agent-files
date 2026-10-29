@@ -4,6 +4,7 @@ This repository mirrors files that Vitrine Retirement Institute publishes at htt
 
 - `donate.json`: a copy of https://vitrineretirement.ca/.well-known/donate.json
 - `skills/vitrine-residence-lookup/SKILL.md`: a copy of https://vitrineretirement.ca/skill.md
+- The skill file also describes Vitrine's paid lookups (0.10 USDC per record on Base, x402).
 
 ## Donation addresses
 
