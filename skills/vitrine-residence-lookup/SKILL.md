@@ -42,7 +42,7 @@ One residence's record as JSON costs 0.10 USDC on Base, paid with x402 (version 
 
     GET https://vitrineretirement.ca/api/agent/residence?path=/<code>/<city>/<residence>/
 
-The path is the residence page's path. Without a payment the reply is 402, with the payment requirements in the PAYMENT-REQUIRED header; send the request again with the signed payment in the PAYMENT-SIGNATURE header. A path that is not a residence page answers 404 and costs nothing. The record holds Vitrine's own analysis and plain facts: the score, band and rank, counts and dates of regulator records and food safety inspections, the nearest hospital, links to the residence's page and the regulator's own record, and where each came from. It holds no regulator report text, no prices and nothing personal. A purchase buys that record only, never placement, ranking, or inclusion. Terms: https://vitrineretirement.ca/terms/.
+The path is the residence page's path. Without a payment the reply is 402, with the payment requirements in the PAYMENT-REQUIRED header; send the request again with the signed payment in the PAYMENT-SIGNATURE header. A path that is not a residence page answers 404 and costs nothing. The record holds Vitrine's own analysis and plain facts: the score, band and rank, counts and dates of regulator records and food safety inspections, the nearest hospital, a link to the residence's page, a link to the regulator's own record where the record includes one, and where each came from. It holds no regulator report text, no prices and nothing personal. A purchase buys that record only, never placement, ranking, or inclusion. Terms: https://vitrineretirement.ca/terms/.
 
 ## Giving to Vitrine
 
