@@ -1,11 +1,11 @@
 ---
 name: vitrine-residence-lookup
-description: Look up a licensed retirement residence in Canada on the Vitrine Retirement Index, read its regulator record and Vitrine Score band, and cite the page. Use for questions about a Canadian retirement home, seniors' residence, RPA, assisted living, supportive living or personal care home.
+description: Look up a seniors' residence in Canada on the Vitrine Retirement Index, read its regulator record and Vitrine Score band, and cite the page. Use for questions about a Canadian retirement home, seniors' residence, RPA, assisted living, supportive living or personal care home.
 ---
 
 # Vitrine Retirement Index: look up a residence
 
-Vitrine Retirement Institute is a Canadian not-for-profit corporation. Its Vitrine Retirement Index is a free register and ranking of licensed retirement residences in Canada's ten provinces, built from each province's public regulator records. No operator pays for placement, ranking, or inclusion.
+Vitrine Retirement Institute is a Canadian not-for-profit corporation. Its Vitrine Retirement Index is a free register and ranking of seniors' residences in Canada's ten provinces, built from each province's public regulator records, and from public directories for Manitoba and some British Columbia homes. No operator pays for placement, ranking, or inclusion.
 
 ## Find a residence
 
