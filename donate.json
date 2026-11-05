@@ -84,7 +84,6 @@
     "mirror": "https://github.com/Vitrine-Retirement/agent-files",
     "rule": "Any address published elsewhere as Vitrine's is not ours."
   },
-  "large_gift": "For a gift worth CA$10,000 or more, the giver emails their name to info@vitrineretirement.ca first. An unnamed gift of that size is returned to the sending address, less the network fee.",
   "a_gift_buys": "Nothing. No gift buys placement, ranking, or inclusion, or any say in how a residence is scored or shown.",
   "links": {
     "donate": "https://vitrineretirement.ca/donate/",
