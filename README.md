@@ -16,15 +16,15 @@ USDC means Circle's USDC; check the contract or mint, listed in `donate.json`, n
 
 ## Check that the addresses are Vitrine's
 
-The message below was signed with the key of the Ethereum address (EIP-191 personal_sign). Recover the signer and confirm it is `0xdb755128ACc1CA90Dba2c02DAAc86e58cfdbA843`. The same signed message is published at https://etherscan.io/verifySig/340794.
+The message below was signed with the key of the Ethereum address (EIP-191 personal_sign). Recover the signer and confirm it is `0xdb755128ACc1CA90Dba2c02DAAc86e58cfdbA843`. The same signed message is published at https://etherscan.io/verifySig/341363.
 
 Message:
 
-    Vitrine Retirement Institute (vitrineretirement.ca) owns these donation addresses. Ethereum, Base and Arbitrum: 0xdb755128ACc1CA90Dba2c02DAAc86e58cfdbA843. Solana: iAxXVwe2jCKrR6E1kH6r5FGqVSmxA6SiQyZS9qN72mm. Bitcoin: bc1qdsndkqp7xswwzcan5su6595x8h9fkfs3psh788. Any other address is not ours. 2026-10-29
+    Vitrine Retirement Institute (vitrineretirement.ca) owns these donation addresses. Ethereum, Base and Arbitrum: 0xdb755128ACc1CA90Dba2c02DAAc86e58cfdbA843. Solana: iAxXVwe2jCKrR6E1kH6r5FGqVSmxA6SiQyZS9qN72mm. Bitcoin: bc1qdsndkqp7xswwzcan5su6595x8h9fkfs3psh788. Giveth project vitrine-retirement-index-canada, receiving wallet created by Giveth, on Ethereum, Optimism, Gnosis, Polygon, Base and Arbitrum: 0xd044255C2324b4139001C299e279532621bC94D0. Any other address is not ours. Replaces our message of 2026-10-29. 2026-11-05
 
 Signature:
 
-    0x88f25d780774d335afd8092101aa53ee5c7b979ca98bf257471d2ca7ff3cdb1b071f4941c2a647432394c7573e202a23127ff9ba5ba679a96cda93fc6db28fb21b
+    0x502d8ef1ed63b9b0d94506c7a8bdfcd6c8d4864e24c58910f014829ef054b7a605c02ba665dbb7c206140f7e41d6dceecc1b3ef8b8959a35e0e38d4b77338f8d1c
 
 The only addresses are the ones on https://vitrineretirement.ca/donate/. Any address published elsewhere as Vitrine's is not ours.
 

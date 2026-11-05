@@ -74,13 +74,45 @@
       ]
     }
   ],
+  "giveth": {
+    "project": "https://giveth.io/project/vitrine-retirement-index-canada",
+    "address": "0xd044255C2324b4139001C299e279532621bC94D0",
+    "networks": [
+      {
+        "network": "ethereum",
+        "chain_id": 1
+      },
+      {
+        "network": "optimism",
+        "chain_id": 10
+      },
+      {
+        "network": "gnosis",
+        "chain_id": 100
+      },
+      {
+        "network": "polygon",
+        "chain_id": 137
+      },
+      {
+        "network": "base",
+        "chain_id": 8453
+      },
+      {
+        "network": "arbitrum-one",
+        "chain_id": 42161
+      }
+    ],
+    "custody": "Created by Giveth for this project; held through Vitrine's Giveth login.",
+    "use": "For gifts made through the Giveth project page. To give directly, use addresses."
+  },
   "unlisted": "A coin, token or network not named here may be lost. Check the token's contract or mint, not its name.",
   "verification": {
     "method": "EIP-191 personal_sign",
     "signer": "0xdb755128ACc1CA90Dba2c02DAAc86e58cfdbA843",
-    "message": "Vitrine Retirement Institute (vitrineretirement.ca) owns these donation addresses. Ethereum, Base and Arbitrum: 0xdb755128ACc1CA90Dba2c02DAAc86e58cfdbA843. Solana: iAxXVwe2jCKrR6E1kH6r5FGqVSmxA6SiQyZS9qN72mm. Bitcoin: bc1qdsndkqp7xswwzcan5su6595x8h9fkfs3psh788. Any other address is not ours. 2026-10-29",
-    "signature": "0x88f25d780774d335afd8092101aa53ee5c7b979ca98bf257471d2ca7ff3cdb1b071f4941c2a647432394c7573e202a23127ff9ba5ba679a96cda93fc6db28fb21b",
-    "record": "https://etherscan.io/verifySig/340794",
+    "message": "Vitrine Retirement Institute (vitrineretirement.ca) owns these donation addresses. Ethereum, Base and Arbitrum: 0xdb755128ACc1CA90Dba2c02DAAc86e58cfdbA843. Solana: iAxXVwe2jCKrR6E1kH6r5FGqVSmxA6SiQyZS9qN72mm. Bitcoin: bc1qdsndkqp7xswwzcan5su6595x8h9fkfs3psh788. Giveth project vitrine-retirement-index-canada, receiving wallet created by Giveth, on Ethereum, Optimism, Gnosis, Polygon, Base and Arbitrum: 0xd044255C2324b4139001C299e279532621bC94D0. Any other address is not ours. Replaces our message of 2026-10-29. 2026-11-05",
+    "signature": "0x502d8ef1ed63b9b0d94506c7a8bdfcd6c8d4864e24c58910f014829ef054b7a605c02ba665dbb7c206140f7e41d6dceecc1b3ef8b8959a35e0e38d4b77338f8d1c",
+    "record": "https://etherscan.io/verifySig/341363",
     "mirror": "https://github.com/Vitrine-Retirement/agent-files",
     "rule": "Any address published elsewhere as Vitrine's is not ours."
   },
@@ -93,5 +125,5 @@
     "data": "https://vitrineretirement.ca/data/"
   },
   "contact": "info@vitrineretirement.ca",
-  "updated": "2026-10-29"
+  "updated": "2026-11-05"
 }
